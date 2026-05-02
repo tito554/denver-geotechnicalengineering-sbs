@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Denver
+
+> Geotechnical engineering services in Denver, United States.
+
+## Services
+- [Anchors](https://denver.geotechnicalengineering.sbs/anchors/)
+- [Atterberg Limits](https://denver.geotechnicalengineering.sbs/atterberg-limits/)
+- [Cbr Road](https://denver.geotechnicalengineering.sbs/cbr-road/)
+- [Cpt Test](https://denver.geotechnicalengineering.sbs/cpt-test/)
+- [Deep Excavations](https://denver.geotechnicalengineering.sbs/deep-excavations/)
+- [Excavation Monitoring](https://denver.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://denver.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://denver.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://denver.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://denver.geotechnicalengineering.sbs/foundations/)
+- [Grain Size](https://denver.geotechnicalengineering.sbs/grain-size/)
+- [Ground Improvement](https://denver.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://denver.geotechnicalengineering.sbs/grouting/)
+- [In Situ Permeability](https://denver.geotechnicalengineering.sbs/in-situ-permeability/)
+- [Investigation](https://denver.geotechnicalengineering.sbs/investigation/)
+- [Lab In Situ](https://denver.geotechnicalengineering.sbs/lab-in-situ/)
+- [Laboratory](https://denver.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://denver.geotechnicalengineering.sbs/liquefaction/)
+- [Masw](https://denver.geotechnicalengineering.sbs/masw/)
+- [Mat Foundations](https://denver.geotechnicalengineering.sbs/mat-foundations/)
+- [Piles](https://denver.geotechnicalengineering.sbs/piles/)
+- [Proctor Tests](https://denver.geotechnicalengineering.sbs/proctor-tests/)
+- [Resistivity](https://denver.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://denver.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://denver.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://denver.geotechnicalengineering.sbs/road-geotechnics/)
+- [Sand Cone Density](https://denver.geotechnicalengineering.sbs/sand-cone-density/)
+- [Seismic](https://denver.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://denver.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://denver.geotechnicalengineering.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://denver.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://denver.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://denver.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://denver.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://denver.geotechnicalengineering.sbs/spt-drilling/)
+- [Stone Columns](https://denver.geotechnicalengineering.sbs/stone-columns/)
+- [Test Pits](https://denver.geotechnicalengineering.sbs/test-pits/)
+- [Triaxial](https://denver.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://denver.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://denver.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in Denver, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
